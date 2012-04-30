@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nom: MyString
+  emplacement_id: 1
+
+two:
+  nom: MyString
+  emplacement_id: 1

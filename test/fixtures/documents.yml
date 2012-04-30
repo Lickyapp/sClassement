@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  descriptif: MyString
+  date: 2012-04-30
+  url: MyString
+  position_id: 1
+
+two:
+  descriptif: MyString
+  date: 2012-04-30
+  url: MyString
+  position_id: 1

@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Descriptif:</b>
+  <%= @document.descriptif %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%= @document.date %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @document.url %>
+</p>
+
+<p>
+  <b>Position:</b>
+  <%= @document.position_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_document_path(@document) %> |
+<%= link_to 'Back', documents_path %>
